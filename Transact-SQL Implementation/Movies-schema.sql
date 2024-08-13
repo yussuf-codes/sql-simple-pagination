@@ -1,0 +1,5 @@
+CREATE TABLE Movies
+(
+	Id INT PRIMARY KEY,
+  	Title CHAR(64) NOT NULL
+);
